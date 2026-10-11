@@ -1,0 +1,6 @@
+{
+  "name": "TaskFlow",
+  "description": "A clean, modern landscape to-do list app with task management, completion tracking, and quick filters.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
